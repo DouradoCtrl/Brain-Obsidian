@@ -1,0 +1,1 @@
+ > Permite que um processamento de um **job** fosse inciado automaticamente quando outro **job** fosse finalizado.

@@ -1,0 +1,1 @@
+O objetivo da normalização é estruturar o banco de dados e evitar uma [[O que é uma dependência inconsistente ?|dependência inconsistente]] e [[O que é dados redundantes ?|dados redundantes]], para que não haja cópias desnecessário do mesmo dados quem podem dificultar a manutenção.

@@ -1,0 +1,1 @@
+> No contexto de sistemas operacionais, **lote (batch)** se refere à execução de um conjunto de tarefas ou jobs agrupados, processados sequencialmente sem intervenção manual.

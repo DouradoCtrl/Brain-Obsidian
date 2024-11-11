@@ -1,0 +1,1 @@
+> No contexto de sistemas operacionais, um **job** é uma tarefa ou processo que o sistema precisa executar, como um comando, script ou programa, que pode ser executado imediatamente ou agendado para ser realizado em um momento específico.

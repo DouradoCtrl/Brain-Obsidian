@@ -1,0 +1,12 @@
+- **Variável especial protegida - abstrata**
+	- Facilita a programação
+	- Acesso mediante às operações
+		- WAIT()
+		- SIGNAL()
+- **Tipos:**
+	- Semáfaros binário ou Mutex
+		- Monitora o uso de um único recurso
+	- Semáfaros de contagem
+		- Monitora o uso de vários recursos
+- **Desvantagem**
+	- Erros de programação

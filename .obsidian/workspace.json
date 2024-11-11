@@ -1,0 +1,334 @@
+{
+  "main": {
+    "id": "fc4a81c9a305c583",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b8a847e2553252d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18fb56ebc478fb43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Especificação de Requisitos de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Especificação de Requisitos de Software"
+            }
+          },
+          {
+            "id": "0e9bc2156452a6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Desafios e Oportunidades da Indústria 4.0 no Brasil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desafios e Oportunidades da Indústria 4.0 no Brasil"
+            }
+          },
+          {
+            "id": "75194b731f057d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Impulsionadores na Indústria 4.0 (IA, Big Data e IoT).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Impulsionadores na Indústria 4.0 (IA, Big Data e IoT)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3110c9ee49625dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "82e79bb60e8d2842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4363d77c095f36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8aeeeab5f58c5bda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Leitura1  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5ed3bb2666168cdd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "right": {
+    "id": "03b1cc94f7acb4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a5b9637985a5ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76ab697ab3329cb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "769c3a91520bdf25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Processos da Engenharia de Requisitos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Processos da Engenharia de Requisitos"
+            }
+          },
+          {
+            "id": "81416370249d6fe2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Processos da Engenharia de Requisitos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Processos da Engenharia de Requisitos"
+            }
+          },
+          {
+            "id": "782a1c86dbb1169a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Processos da Engenharia de Requisitos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Processos da Engenharia de Requisitos"
+            }
+          },
+          {
+            "id": "879e69eeb1c47e3b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "749b06ae995bcd2f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "3354265c8df7630b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ef876372276543e2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "0b982fbc8a0ecbea",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "fcfee4685fb9a186",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "40d83732496d01e5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "f967d5258c75ad22",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "7e3f5b4f8bca46ca",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false
+    }
+  },
+  "active": "18fb56ebc478fb43",
+  "lastOpenFiles": [
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Engenharia de Requisitos.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Noções de Competência Necessárias aos Profissionais da Indústria 4.0.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Introdução à Indústria.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Impulsionadores na Indústria 4.0 (IA, Big Data e IoT).md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Noções dos Principais Componentes da Indústria 4.0.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/temaTransversal.pdf",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Desafios e Oportunidades da Indústria 4.0 no Brasil.md",
+    "Sem título.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241107180112.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241108195513.png",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Estudo Contemporâneo e Transversal.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/EGRAD_ESOFT_202254_ENGENHARIA_DE_REQUISITOS_PARTE_5.mp3",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/396f56f42a685eb3b0d1958b7a3d8b77ce31af838c4f47d5c5be3a0e66d234eccf109c3482a3027089f6f74b48c5622558281f45971b7a224b5154229141a245.pdf",
+    "Sem título",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Especificação de Requisitos de Software.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Engenharia de Requisitos.pdf",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Fundamentos da Engenharia de Requisitos.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Processos da Engenharia de Requisitos.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Técnicas de Elicitação de Requisitos de Software.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/EGRAD_ESOFT_202254_ENGENHARIA_DE_REQUISITOS_PARTE_5.mp3.crdownload",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241107175838.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241107175629.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241107175115.png",
+    "Inbox.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Images",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Atividades",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104222806.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104222424.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104222105.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104214713.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104213553.png",
+    "Engenharia de Software/53_2024/BANCO DE DADOS/AE2 FlashCards.md",
+    "Engenharia de Software/53_2024/BANCO DE DADOS/AE3 FlashCards.md",
+    "Engenharia de Software/53_2024/BANCO DE DADOS/Conceito FlashCards.md",
+    "Trash/13 de setembro.md",
+    "Trash/INBOX.md",
+    "().md",
+    "Engenharia de Software/54_2024/Programação Orientada a Objetos/Atividades/Atividade  01 - Programação Orientada a Objetos.md",
+    "Engenharia de Software/54_2024/Programação Orientada a Objetos/Images",
+    "Engenharia de Software/54_2024/Programação Orientada a Objetos/Anotações/Estruturas de Controle - Java.md",
+    "Trash/Carta de Apresentação.md",
+    "Engenharia de Software/54_2024/Sem título 2.md",
+    "Engenharia de Software/54_2024/Sem título 1.md",
+    "Engenharia de Software/54_2024/Sem título.md",
+    "Sem título.canvas"
+  ]
+}

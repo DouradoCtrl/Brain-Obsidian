@@ -1,0 +1,1 @@
+> Cada usuário poderia se conectar por meio de um terminal on-line. Se o usuário conectado não utilizasse recursos de hardware o mesmo era alocado para os usuários que estavam utilizando esses recursos

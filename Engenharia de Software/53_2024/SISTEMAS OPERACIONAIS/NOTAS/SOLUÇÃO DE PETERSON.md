@@ -1,0 +1,8 @@
+- **É um fila de acessos à região crítica
+	- Um processo solicita a R.C
+	- Caso já esteja em uso, vai p/ uma fila;
+	- Região crítica é liberada;
+	- O processo da frente ganha acesso;
+	- O último processo interessado será o último a ser atendido.
+- **Desvantagem**
+	- Espera ociosa.

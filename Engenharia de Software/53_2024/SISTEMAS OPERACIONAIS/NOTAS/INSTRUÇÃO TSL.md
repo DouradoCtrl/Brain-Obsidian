@@ -1,0 +1,12 @@
+- **Implementação via Hardware**
+	- Variável = registrador;
+	- Instrução própria - TSL;
+	- Checagem a cada ciclo de clock;
+	- Desde o processador intel 8088
+- **Desvantagem**
+	- Espera ociosa.
+	- Solução p/ desperdício de processamento:
+		- SLEEP (dormir)
+			- Quando não ninguém pedindo acesso a R.C, ele para de checar a cada ciclo e evitando essa espera ociosa = desperdício de processamento
+		- WAKEUP (acordar)
+			- Quando um processo pede acesso à R.C

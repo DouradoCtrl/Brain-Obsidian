@@ -1,0 +1,5 @@
+print("=" * 80)
+print("No main.py was found so one was created!")
+print("Add your own code to this file: /home/dourado/Documentos/Dropbox/Brain Obsidian/main.py")
+print("=" * 80)
+input("Key enter to close.")

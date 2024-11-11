@@ -1,0 +1,5 @@
+# Carta de Apresentação
+
+Oi, me chamo Samuel, um entusiasta de tecnologia de 20 anos e estudante de T.I. Minhas habilidades abrangem programação em PHP, C++, Java, Spring Boot, Laravel, e desenvolvimento front-end com HTML/CSS, Bootstrap e WordPress. Além disso, sou experiente em bancos de dados SQL e MySQL, bem como na administração de servidores Apache. Tenho conhecimento em manipulação de servidores VMs, Proxmox, instalação e configuração de ambiente Ubuntu Server e acesso via SSL, além de consulta e manipulação de switches e CPEs em OLT em infraestrutura de rede. Sou um grande fã do Linux e estou imerso em tecnologias open source.
+
+Estou determinado a me destacar como um desenvolvedor júnior e estou empenhado em expandir ainda mais meu conhecimento. Estou buscando novos desafios, aprendendo novos frameworks, incluindo Laravel, e integrando APIs e bancos de dados em meus projetos.

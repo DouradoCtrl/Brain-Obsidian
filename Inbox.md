@@ -1,0 +1,6 @@
+- [x] Aula 02 - Engenharia de Requisitos
+- [ ] Configurar Git Hub
+	- [ ] Chave SSH
+- [ ] Publicar alguns Projetos
+	- [ ] Code Igniter 4
+	- [ ] PHP puro
