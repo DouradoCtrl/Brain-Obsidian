@@ -1,17 +1,17 @@
 # Aula 1
--  Os requisitos são funcoes e restricoes que sao geradas durante o processo de engenharia de requisitos
-- Segundo a professora engenharia de requistos faz parte do processo de software como abordado na atividade engenharia de software
-- Segundo a mesma engenharia de requisitos fazer parte da etapa de especificao de um processo de software
+-  Os requisitos são funções e restrições que são geradas durante o processo de engenharia de requisitos
+- Segundo a professora engenharia de requisitos faz parte do processo de software como abordado na atividade engenharia de software
+- Segundo a mesma engenharia de requisitos faz parte da etapa de especificação de um processo de software
 
 - Engenharia de requisito também é um processo
 
 **Tipos de requisitos:**
 - Funcional
-	- definicao das funcoes
-	- entradas e saidas
+	- definição das funções
+	- entradas e saídas
 - Não funcional 
-	- dizem respeito as retricoes
-	- interfaces com o usuario, desempenho, portabilidade, padroes, confiabilidade etc
+	- dizem respeito as restrições
+	- interfaces com o usuário, desempenho, portabilidade, padrões, confiabilidade etc
 - Requisito de domínio
 
 # Unidade 1
@@ -20,7 +20,7 @@
 >	2. Documentar
 >	3. Verificar
 
-**Processo de software:** Entregar um software com qualidade, dentro do prazo e seguindo orcamento estipulado
+**Processo de software:** Entregar um software com qualidade, dentro do prazo e seguindo orçamento estipulado
 
 > Pressman e Maxim - Processo eficaz
 
@@ -65,12 +65,12 @@ pag 23, revisar
 - Sabotadores
 
 ### Níveis de requisitos
-1. **Requisitos de usuários:** Pessoas envolvidos no uso e aquisicao do sisetma
-2. **Requisitos do sistema:** Funcoes que o sistema deve fornecer (Programacao)
-3. **Regra de negócio:** Orientacões e restricoes que como  a empresa opera seu negocio
+1. **Requisitos de usuários:** Pessoas envolvidos no uso e aquisição do sistema
+2. **Requisitos do sistema:** Funções que o sistema deve fornecer (Programação)
+3. **Regra de negócio:** Orientações e restrições que como  a empresa opera seu negocio
 
-**Nível de Generalizacao
-![[Pasted image 20241030210143.png]]**
+**Nível de Generalização
+![[Pasted image 20241120112822.png]]
 
 ### Requisitos Funcionais
 > os quais dizem respeito à definição das funções que um sistema ou um componente de sistema deve fazer (entradas e saídas).
@@ -98,11 +98,8 @@ pag 23, revisar
 | **Rastreável**   | Possibilidade de rastreamento no sistema.                                               |
 | **Tempo verbal** | Utilizar verbos de ação que indiquem o que será feito (ex: realizar, comprar).         |
 
-Espero que isso ajude nas suas anotações!
-
-
 ### Requisitos não Funcionais
-> Diz respeito as restricoes: desempenho, interface de usuário, seguranca, permissoes e etc
+> Diz respeito as restrições: desempenho, interface de usuário, segurança, permissões e etc
 
 - Sempre que possível escritos quantitativamente
 
@@ -118,9 +115,9 @@ Espero que isso ajude nas suas anotações!
 		-> Rapidez do sistema e quantas memória deve receber
 		-> Estabelecer taxa de erros aceitáveis.
 - **Requisitos organizacionais:**
-	-> Requisitos do sistema derivado das políticas e organizacao do cliente e do desenvolverdore
+	-> Requisitos do sistema derivado das políticas e organização do cliente e do desenvolvedores
 	 -> Como o sistema será usado
-	 -> Qual linguagem de programacao utilziada, ambiente de desenvolvimente ou normas a serem utilizadas
+	 -> Qual linguagem de programação será utilizada, ambiente de desenvolvimento ou normas a serem utilizadas
 	 -> Ambiente operacional do sistema
 - **Requisitos Externos:**
 	-> Requisitos derivados de fatores externos
@@ -133,7 +130,7 @@ Espero que isso ajude nas suas anotações!
 #### Importância dos requisitos funcionais:
 
 **Exemplo:**
-> A empresa de transportes XYZ possui uma frota de 600 caminhões, mas eles não podem ficar esperando muito tempo no pátio, mesmo para saí- rem dos armazéns de carga. A empresa solicitou que, no módulo de logís- tica, todas as cargas devem ser liberadas em, no máximo, 15 minutos. Para isso, é emitido um documento de solicitação de liberação de carga, nele é anexado a nota fiscal eletrônica dos produtos contidos no caminhão.
+> A empresa de transportes XYZ possui uma frota de 600 caminhões, mas eles não podem ficar esperando muito tempo no pátio, mesmo para saírem dos armazéns de carga. A empresa solicitou que, no módulo de logística, todas as cargas devem ser liberadas em, no máximo, 15 minutos. Para isso, é emitido um documento de solicitação de liberação de carga, nele é anexado a nota fiscal eletrônica dos produtos contidos no caminhão.
 
 **Identificando o requisitos não funcional:**
 - [RNF01] Requisito de Desempenho: tempo limite de, no máximo, 12 minutos para o processamento de solicitação de liberação de carga.
@@ -170,6 +167,7 @@ Os desenvolvedores ignoraram o Requisito Não Funcional (RNF01) sobre o tempo de
 	- Novos requisitos causam atrasos e aumentam custos, afetando cronograma e viabilidade do projeto.
 
 ### Valores do manifesto ágil...
+- Preciso fazer
 
 ###  Priorização dos requisitos de software
 - Os mais prioritário para o início da lista.

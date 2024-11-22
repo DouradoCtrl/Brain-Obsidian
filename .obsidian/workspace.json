@@ -4,49 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "2b8a847e2553252d",
+        "id": "74aeb45a936d7c06",
         "type": "tabs",
         "children": [
           {
-            "id": "18fb56ebc478fb43",
+            "id": "6934d6ef34ef9c13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Especificação de Requisitos de Software.md",
+                "file": "Engenharia de Software/54_2024/Engenharia de Requisitos/Atividades/MAPA - TechMed Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Especificação de Requisitos de Software"
+              "title": "MAPA - TechMed Solutions"
             }
           },
           {
-            "id": "0e9bc2156452a6ae",
+            "id": "c0d0afb70950e04f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Desafios e Oportunidades da Indústria 4.0 no Brasil.md",
-                "mode": "source",
-                "source": false
+                "file": "Engenharia de Software/54_2024/Engenharia de Requisitos/Engenharia de Requisitos.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Desafios e Oportunidades da Indústria 4.0 no Brasil"
+              "icon": "lucide-file-text",
+              "title": "Engenharia de Requisitos"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bf4f994012a814e7",
+        "type": "tabs",
+        "children": [
           {
-            "id": "75194b731f057d76",
+            "id": "80a593e32ac6df4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Impulsionadores na Indústria 4.0 (IA, Big Data e IoT).md",
+                "file": "Engenharia de Software/54_2024/Engenharia de Requisitos/Atividades/MAPA - TechMed Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Impulsionadores na Indústria 4.0 (IA, Big Data e IoT)"
+              "title": "MAPA - TechMed Solutions"
             }
           }
         ]
@@ -259,12 +264,82 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "66b1cb9c8df3e876",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "4d17de68308f3477",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "4e02a9425deaac8a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "04c008433e2d7b2a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "fedc48e9ef4af6ee",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "660be4a848786c7e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "06e57a22d102f3c7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -282,53 +357,54 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "18fb56ebc478fb43",
+  "active": "cd4363d77c095f36",
   "lastOpenFiles": [
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/SLIDE 3: COMO NASCEM OS SISTEMAS.pdf",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/SLIDE 3: COMO NASCEM OS SISTEMAS.pdf.crdownload",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/SLIDE 2: COMO NASCEM OS SISTEMAS.pdf",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/SLIDE 2: COMO NASCEM OS SISTEMAS.pdf.crdownload",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/SLIDE 1: COMO NASCEM OS SISTEMAS.pdf",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/SLIDE 1: COMO NASCEM OS SISTEMAS.pdf.crdownload",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/RASTREABILIDADE DOS REQUISITOS.pdf",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/RASTREABILIDADE DOS REQUISITOS.pdf.crdownload",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/MATERIAL COMPLEMENTAR.pdf",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS/MATERIAL COMPLEMENTAR.pdf.crdownload",
+    "Engenharia de Software/54_2024/PROJETO DE ENSINO - REQUISITOS DE SOFTWARE COMO NASCEM OS SISTEMAS",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Atividades/MAPA - TechMed Solutions.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Fundamentos da Engenharia de Requisitos.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Atividades/Atividade 01 - Engenharia de Requisitos.md",
+    "Sem título.md",
+    "Engenharia de Software/54_2024/Programação Orientada a Objetos/Atividades/MAPA  - Herança.md",
+    "Pasted image 20241120112822.png",
     "Engenharia de Software/54_2024/Engenharia de Requisitos/Engenharia de Requisitos.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Gerenciamento de Requisitos.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241117131139.png",
+    "Sem título 1.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241117115038.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241117115741.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241117115756.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241117115831.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241117115849.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241117120119.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241117120121.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241117122340.png",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Especificação de Requisitos de Software.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Técnicas de Elicitação de Requisitos de Software.md",
+    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Processos da Engenharia de Requisitos.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Noções dos Principais Componentes da Indústria 4.0.md",
+    "Engenharia de Software/54_2024/Programação Orientada a Objetos/Questões AEs.md",
+    "Engenharia de Software/54_2024/Programação Orientada a Objetos/Programação Orientada a Objetos.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Desafios e Oportunidades da Indústria 4.0 no Brasil.md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Impulsionadores na Indústria 4.0 (IA, Big Data e IoT).md",
+    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Estudo Contemporâneo e Transversal.md",
     "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Noções de Competência Necessárias aos Profissionais da Indústria 4.0.md",
     "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Introdução à Indústria.md",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Impulsionadores na Indústria 4.0 (IA, Big Data e IoT).md",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Noções dos Principais Componentes da Indústria 4.0.md",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/temaTransversal.pdf",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações/Desafios e Oportunidades da Indústria 4.0 no Brasil.md",
-    "Sem título.md",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241107180112.png",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241108195513.png",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Estudo Contemporâneo e Transversal.md",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/EGRAD_ESOFT_202254_ENGENHARIA_DE_REQUISITOS_PARTE_5.mp3",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/396f56f42a685eb3b0d1958b7a3d8b77ce31af838c4f47d5c5be3a0e66d234eccf109c3482a3027089f6f74b48c5622558281f45971b7a224b5154229141a245.pdf",
-    "Sem título",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Especificação de Requisitos de Software.md",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Engenharia de Requisitos.pdf",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Fundamentos da Engenharia de Requisitos.md",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Processos da Engenharia de Requisitos.md",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Anotações/Técnicas de Elicitação de Requisitos de Software.md",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/EGRAD_ESOFT_202254_ENGENHARIA_DE_REQUISITOS_PARTE_5.mp3.crdownload",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241107175838.png",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241107175629.png",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241107175115.png",
     "Inbox.md",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Images",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Atividades",
-    "Engenharia de Software/54_2024/Estudo Contemporâneo e Transversal/Anotações",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104222806.png",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104222424.png",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104222105.png",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104214713.png",
-    "Engenharia de Software/54_2024/Engenharia de Requisitos/Images/Pasted image 20241104213553.png",
     "Engenharia de Software/53_2024/BANCO DE DADOS/AE2 FlashCards.md",
     "Engenharia de Software/53_2024/BANCO DE DADOS/AE3 FlashCards.md",
     "Engenharia de Software/53_2024/BANCO DE DADOS/Conceito FlashCards.md",
     "Trash/13 de setembro.md",
     "Trash/INBOX.md",
-    "().md",
-    "Engenharia de Software/54_2024/Programação Orientada a Objetos/Atividades/Atividade  01 - Programação Orientada a Objetos.md",
-    "Engenharia de Software/54_2024/Programação Orientada a Objetos/Images",
-    "Engenharia de Software/54_2024/Programação Orientada a Objetos/Anotações/Estruturas de Controle - Java.md",
-    "Trash/Carta de Apresentação.md",
-    "Engenharia de Software/54_2024/Sem título 2.md",
-    "Engenharia de Software/54_2024/Sem título 1.md",
-    "Engenharia de Software/54_2024/Sem título.md",
     "Sem título.canvas"
   ]
 }
