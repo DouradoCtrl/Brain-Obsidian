@@ -35,3 +35,233 @@ SIERRA, K.; BATES, B. **Use a cabeça**! Java. 2. ed. [_S. l._]: Alta Books, 20
 
 # Resposta
 ---
+- herança e polimorfismo
+
+O que eu quero fazer.
+	-> Uma atividade básica utilizando um classe abstrata que vai funcionar como um super classe para as outras classes.
+	-> Quero fazer uma classe abstrata com pessoa e as demais classes vai ser estudante e professor, ambos terão um apresentar porém o polimorfismo fará com que cada apresentação de cada um seja diferente, e o método abstrato irá definir um padrão de classes que irão derivar da mesma.
+	
+**O que é herança e polimorfismo ?**
+livro e fontes externas
+**Como pode ser usado em java ?**
+exemplo analise
+	- sem abstracao
+	- com abstracao
+**Qual sua importância ?**
+reutilizacao de codigo, padronizacao
+
+### Exemplo 1 (Herança, Polimorfismo)
+- Classe Main
+```java
+package mapaUnicesumar.herance;  
+  
+public class Main {  
+    public static void main(String[] args) {  
+        Pessoa Sabrina = new Pessoa("Sabrina", "324.324.234-54", 21);  
+  
+        Dicente Samuel = new Dicente("Samuel", 20, "026.143.324-54", "24039423-5",  
+               "Engenharia de Software", "Programação Orientada a Objetos");  
+  
+        Samuel.apresentar();  
+  
+        Docente Emmanuel = new Docente("Emmanuel", 35, "432.342.123-43",  
+               "Redes de Computadores", "Unicesumar");  
+  
+        Emmanuel.apresentar();  
+        }  
+}
+```
+
+- Superclasse
+```java
+package mapaUnicesumar.herance;  
+  
+public class Pessoa {  
+    private String nome;  
+    private String cpf;  
+    private Integer idade;  
+  
+    public Pessoa(String nome, String cpf, Integer idade) {  
+        this.setNome(nome);  
+        this.setCpf(cpf);  
+        this.setIdade(idade);  
+    }  
+    public String getCpf() {  
+        return cpf;  
+    }  
+  
+    public void setCpf(String cpf) {  
+        this.cpf = cpf;  
+    }  
+  
+    public String getNome() {  
+        return nome;  
+    }  
+  
+    public void setNome(String nome) {  
+        this.nome = nome;  
+    }  
+  
+    public Integer getIdade() {  
+        return idade;  
+    }  
+  
+    public void setIdade(Integer idade) {  
+        this.idade = idade;  
+    }  
+  
+  
+    public void apresentar() {  
+        System.out.println("Olá, meu nome é " + nome);  
+    }  
+      
+}
+``` 
+
+- Subclasse Docente
+```java
+package mapaUnicesumar.herance;  
+  
+public class Docente extends Pessoa {  
+    private String disciplina;  
+    private String instituicao;  
+  
+    public Docente(String nome, Integer idade, String cpf, String disciplina, String instituicao) {  
+        super(nome, cpf, idade);  
+        this.disciplina = disciplina;  
+        this.instituicao = instituicao;  
+    }  
+  
+    @Override  
+    public void apresentar() {  
+        System.out.printf("O meu nome é %s e sou professor de %s na instituição de ensino %s",  
+            getNome(), disciplina, instituicao);  
+    }  
+}
+```
+
+- Subclasse Dicente
+```java
+package mapaUnicesumar.herance;
+
+public class Dicente extends Pessoa {
+    private String matricula;
+    private String curso;
+    private String disciplina;
+    
+    public Dicente(String nome, Integer idade, String cpf, String matricula, String curso, String disciplina) {
+        super(nome, cpf, idade);
+        this.matricula = matricula;
+        this.curso = curso;
+        this.disciplina = disciplina;
+    }
+}
+
+```
+
+- Saída compilado
+...
+#### Análise:
+
+### Exemplo 1 (Abstração, Herança, Polimorfismo)
+- Classe Main
+```java
+package novoExemplo;
+
+public class Main {
+    public static void main(String[] args) {
+        Estudante Samuel = new Estudante("Samuel", 20);
+        Samuel.apresentar();
+
+        Professor Glauber = new Professor("Glaube");
+        Glauber.apresentar();
+
+    }
+}
+
+```
+
+- Superclasse
+```java
+package novoExemplo;  
+  
+public abstract class Pessoa {  
+    private String nome;  
+    private String cpf;  
+    private Integer idade;  
+  
+    public abstract void apresentar();  
+  
+    public String getCpf() {  
+        return cpf;  
+    }  
+  
+    public void setCpf(String cpf) {  
+        this.cpf = cpf;  
+    }  
+  
+    public String getNome() {  
+        return nome;  
+    }  
+  
+    public void setNome(String nome) {  
+        this.nome = nome;  
+    }  
+  
+    public Integer getIdade() {  
+        return idade;  
+    }  
+  
+    public void setIdade(Integer idade) {  
+        this.idade = idade;  
+    }  
+  
+}
+```
+
+- Classe filha Estudante
+```java
+package novoExemplo;
+
+public class Estudante extends Pessoa {;
+
+    public Estudante(String nome, Integer idade) {
+        this.setNome(nome);
+        this.setIdade(idade);
+    }
+
+    @Override
+    public void apresentar() {
+        System.out.printf("Olá, me chamo %s tenho %d anos e atualmente sou estudante",
+                getNome(), getIdade());
+    }
+}
+```
+
+- Classe filha Professor
+```java
+package novoExemplo;
+
+public class Professor extends Pessoa{
+
+    public Professor(String nome) {
+        this.setNome(nome);
+    }
+
+
+    @Override
+    public void apresentar() {
+        System.out.printf("Olá, meu nome é %s e eu sou o professor dessa disciplina", getNome());
+    }
+}
+
+```
+
+- Saída compilado
+...
+
+#### Análise:
+
+
+## **Referências**
+---
